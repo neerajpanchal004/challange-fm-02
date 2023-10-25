@@ -12,9 +12,9 @@ body{
 }
 .box{
     display: flex;
-    margin-top: 14%;
-    width: 500px;
-    height: 430px;
+    margin-top: 13.5%;
+    width: 600px;
+    height: 440px;
 
     
     
@@ -22,7 +22,7 @@ body{
 
 .box-image> img{
     
-    height: 430px;
+    height: 440px;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
 
